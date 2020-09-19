@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jarillo/Escritorio/Arquitecturas/s5/p1/P1.cpp
+iostream
+-
+chrono
+-
+thread
+-
+iomanip
+-
+ctime
+-
+fstream
+-
+sstream
+-
+
